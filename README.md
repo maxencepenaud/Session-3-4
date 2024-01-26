@@ -14,5 +14,5 @@ This will be  alist:
 Cold Palmer picture:
 
 ![Palmer should be there]
-![](Palmer.jpeg)
+![](/Users/maxencepenaud/Session3/4/pythonProject/Session3/Palmer.jpeg)
 
