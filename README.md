@@ -10,6 +10,6 @@ This will be  alist:
 1. Learn python
 2. Become good
 3. Profit!
-
+![](/Users/maxencepenaud/Session3/4/pythonProject/Session3/Palmer.jpeg)
 ![](Palmer.jpeg)
 
